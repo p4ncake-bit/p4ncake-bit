@@ -1,6 +1,7 @@
 <h1 align="center">🥞</h1>
 
-* 🌑 I am LuaU programmer, with experience of 3 years.
+* 🌑 I am Lua programmer, with experience of 3 years.
+* 🌙 I am also decent MoonScript programmer.
 * 🧑‍💻 I can find vulnerabilities, find bugs, code games, etc.
 * 🖌️ I am also decent UI designer.
 
