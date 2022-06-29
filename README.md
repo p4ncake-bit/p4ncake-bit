@@ -1,5 +1,6 @@
-<h1 align="center">🥞</h1>
+<h1 align="center">🌸</h1>
 
+* 🌸 Hello, I am emily!
 * 🌑 I am Lua programmer, with experience of 3 years.
 * 🌙 I am also decent MoonScript programmer.
 * 🧑‍💻 I can find vulnerabilities, find bugs, code games, etc.
